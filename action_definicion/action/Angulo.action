@@ -1,0 +1,11 @@
+# Goal
+float64 target_angle  # Ángulo objetivo
+
+---
+# Result
+string image_data  # Imagen capturada en formato base64
+
+---
+# Feedback
+float64 current_angle  # Ángulo actual
+
